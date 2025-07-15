@@ -4,5 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "A trait for giving multi-line strings a nice trim, removing shared whitespace"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/epic-64/nice-trim"
+documentation = "https://docs.rs/nice-trim"
 
 [dependencies]
