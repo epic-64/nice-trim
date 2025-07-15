@@ -1,3 +1,9 @@
+//! # nice-trim
+//!
+//! Provides a `NiceTrim` trait for multi-line strings, allowing clean indentation trimming.
+//!
+//! See the [`NiceTrim::nice`] method for details.
+
 pub trait NiceTrim {
     fn nice(&self) -> String;
 }
